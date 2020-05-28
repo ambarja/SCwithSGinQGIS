@@ -1,8 +1,8 @@
 # Supervised Classification and Statistical Graphs in QGIS 
 
+![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
-
 
 
 This repository aims teach and to encourage new users to use QGIS on the topic of Remote Sensing using the Dzetsaka plugin,
